@@ -1,0 +1,25 @@
+.cal{
+    width:400px;
+    height:600px;
+    background: grey ;
+    margin-left:400px;
+    font-size: 27px;
+    font-family: cursive;
+}
+
+
+#screen{
+    margin-left: 65px;
+    margin-top: 19px;
+    height: 57px;
+    width: 265px;
+    pointer-events: none;
+}
+.butn{
+    
+    height: 45px;
+    width: 60px;
+    margin-top: 38px;
+    margin-right: 5px;
+    margin-left: 26px;
+}
